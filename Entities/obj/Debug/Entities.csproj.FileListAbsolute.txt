@@ -1,0 +1,6 @@
+C:\Users\ucer_\Desktop\8 - CUATRIMESTRE\GESTION DE DESARROLLO DE SOFTWARE\System\SystemGDS\Entities\bin\Debug\Entities.dll
+C:\Users\ucer_\Desktop\8 - CUATRIMESTRE\GESTION DE DESARROLLO DE SOFTWARE\System\SystemGDS\Entities\bin\Debug\Entities.pdb
+C:\Users\ucer_\Desktop\8 - CUATRIMESTRE\GESTION DE DESARROLLO DE SOFTWARE\System\SystemGDS\Entities\obj\Debug\Entities.csprojAssemblyReference.cache
+C:\Users\ucer_\Desktop\8 - CUATRIMESTRE\GESTION DE DESARROLLO DE SOFTWARE\System\SystemGDS\Entities\obj\Debug\Entities.csproj.CoreCompileInputs.cache
+C:\Users\ucer_\Desktop\8 - CUATRIMESTRE\GESTION DE DESARROLLO DE SOFTWARE\System\SystemGDS\Entities\obj\Debug\Entities.dll
+C:\Users\ucer_\Desktop\8 - CUATRIMESTRE\GESTION DE DESARROLLO DE SOFTWARE\System\SystemGDS\Entities\obj\Debug\Entities.pdb
